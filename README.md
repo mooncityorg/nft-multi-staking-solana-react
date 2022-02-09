@@ -1,3 +1,3 @@
-# Goblin Army NFTs
+# Baryard NFT Staing (Land, Animal, Farmer)
 
 ## NFT Staking frontend
