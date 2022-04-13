@@ -1,3 +1,3 @@
-# Baryard NFT Staing (Land, Animal, Farmer)
+# NFT Staing (Land, Animal, Farmer)
 
 ## NFT Staking frontend
