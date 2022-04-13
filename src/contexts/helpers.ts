@@ -20,11 +20,10 @@ import { errorAlert, successAlert } from '../components/toastGroup';
 export const solConnection = new web3.Connection(web3.clusterApiUrl("devnet"));
 
 const ASSOCIATED_TOKEN_PROGRAM_ID: PublicKey = new PublicKey(
-  'ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL',
+  '',
 );
-// const ADMIN_PUBKEY = new PublicKey("Fs8R7R6dP3B7mAJ6QmWZbomBRuTbiJyiR4QYjoxhLdPu");
-const REWARD_TOKEN_MINT = new PublicKey("8EoML7gaBJsgJtepm25wq3GuUCqLYHBoqd3HP1JxtyBx");
-const PROGRAM_ID = "2nzuuPMGzrwtzXXU6PXP3dcTj24gJKS6uG8AsCuSs2mf";
+const REWARD_TOKEN_MINT = new PublicKey("");
+const PROGRAM_ID = "";
 const GLOBAL_AUTHORITY_SEED = "global-authority";
 const USER_BARN_SEED = 'user-barn';
 const USER_BARN_SIZE = 8 + 18_864;
